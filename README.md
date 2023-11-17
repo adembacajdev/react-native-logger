@@ -6,6 +6,8 @@ React Native colorized logger
 
 ```sh
 npm install @adembacajdev/react-native-logger
+or if you are using Expo
+npx expo install @adembacajdev/react-native-logger
 ```
 
 ## Usage
