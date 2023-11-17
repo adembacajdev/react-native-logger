@@ -2,7 +2,7 @@
 
 React Native colorized logger
 
-##Example of loggers
+## Example of loggers
 ![Screenshot 2023-11-17 at 7 45 25 PM](https://github.com/adembacajdev/react-native-logger/assets/85193638/b2bb46a5-9050-42e7-9897-dbb5ea3a0da0)
 
 ## Installation
