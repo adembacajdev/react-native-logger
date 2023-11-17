@@ -11,11 +11,14 @@ npm install @adembacajdev/react-native-logger
 ## Usage
 
 ```js
-import { multiply } from '@adembacajdev/react-native-logger';
+import LOG from '@adembacajdev/react-native-logger';
 
 // ...
 
-const result = await multiply(3, 7);
+LOG.debug('Logging debug', { type: 'debug' });
+LOG.info('Logging info', { type: 'info' });
+LOG.warn('Logging warn', { type: 'warn' });
+LOG.error('Logging error', { type: 'error' });
 ```
 
 ## Contributing
