@@ -1,5 +1,5 @@
 {
-  "name": "@adembacaj/react-native-logger",
+  "name": "@adembacajdev/react-native-logger",
   "version": "1.0.0",
   "description": "React Native colorized logger",
   "main": "lib/commonjs/index",
